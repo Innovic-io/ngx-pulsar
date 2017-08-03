@@ -4,8 +4,6 @@ Pulsing button with modal window.
 
 ## Demo
 
-Check out the live demo here: http://ngx-pulsar-demo.surge.sh
-
 ![Demo](https://media.giphy.com/media/l41JGqnZJSR9N3WRG/giphy.gif "Demo")
 
 
@@ -66,11 +64,11 @@ export class MyComponent {}
 
 ## API
 
-| Input | Default |
-| --- | --- |
-|  title | Modal window title |
-|  text | Modal window text  |
-|  size | Circle size in pixels, default: 18px  |
+| Input | Default | Description |
+| --- | --- | --- | 
+|  title | Title placeholder... | Modal window title |
+|  text | | Modal window text  |
+|  size | 18px | Circle size in pixels |
 
 
 ## Building from source
