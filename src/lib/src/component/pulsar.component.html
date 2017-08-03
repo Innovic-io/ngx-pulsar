@@ -1,0 +1,11 @@
+<div class="gps_ring" [style.width.px]="size" [style.height.px]="size" (click)="open()"></div>
+
+<!-- The Modal -->
+<div class="modal" [ngClass]="{'open': modalOpen}">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close" (click)="close()">&times;</span>
+    <h2>{{title}}</h2>
+    <p *ngIf="text">{{text}}</p>
+  </div>
+</div>
