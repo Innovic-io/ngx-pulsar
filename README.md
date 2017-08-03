@@ -4,7 +4,7 @@ Pulsing button with modal window.
 
 ## Demo
 
-![Demo](https://media.giphy.com/media/l41JGqnZJSR9N3WRG/giphy.gif "Demo")
+![Demo](https://media.giphy.com/media/3oEhn0S6Mru8Mcm47K/source.gif "Demo")
 
 
 ## Quick Start
